@@ -189,6 +189,7 @@ body{
 }  
 .img{
   height: 25%;
+  margin: 0;
 }
 .mainer-blog{
   margin-right: 30px;
