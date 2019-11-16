@@ -119,6 +119,7 @@
   display: block;  
   height: 100%;
 }
+
 .navigation__menu{
   flex-direction: column;
   padding: 0;
@@ -131,7 +132,7 @@
   border-top-color: none;
 } */
 .navigation__item{
-  line-height: 95px;
+  line-height: 90px;
       
       /* border-top: 1px solid; */
 }
