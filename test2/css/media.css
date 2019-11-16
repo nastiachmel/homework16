@@ -108,7 +108,7 @@
   top: -5px;
   right: 0;
       /* left: 0; */
-
+overflow: hidden;
   background-color: rgb(51, 60, 70);
   z-index: 1000;
   height: 100%;
