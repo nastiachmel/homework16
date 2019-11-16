@@ -109,7 +109,7 @@
   right: 0;
       /* left: 0; */
 
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgb(51, 60, 70);
   z-index: 1000;
   height: 100%;
   width: 100%;
@@ -125,7 +125,7 @@
   margin: 0;
 }
 .navigation__menu:first-child{
-  margin-top: 45px;
+  margin-top: 48px;
 }
 /* .navigation__link--active {
   border-top-color: none;
@@ -154,13 +154,15 @@
   font-size: 36px;
   text-decoration: none;
   display: block;
-  width: 50px;
+  width: 40px;
   position: absolute;
   top: 0px;
-  right: 0;
+  right: 0px;
+  background-color: coral;
+  text-align: center;
 }  
 .menu_state_open .navigation__link-close:hover{
-  color: red;
+  color: black;
 }
 .navigation__link:hover 
 {
